@@ -144,6 +144,25 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Jarvis",
+      "species": "hound",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Felix",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "16"
     }
   ]
 }
